@@ -20,4 +20,4 @@
   
 <img align="left" alt="biancahandrade github stats" src="https://github-readme-stats-dun-theta.vercel.app/api?username=biancahandrade&show_icons=true&hide_border=true" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancahandrade&layout=compact)](https://github.com/biancahandrade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancahandrade&layout=compact)](https://github.com/biancahandrade/github-readme-stats)
