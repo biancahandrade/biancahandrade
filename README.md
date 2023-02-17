@@ -18,6 +18,6 @@
   
 ##
   
-<img align="left" alt="biancahandrade github stats" src="https://github-readme-stats-dun-theta.vercel.app/api?username=biancahandrade&show_icons=true&hide_border=true" />
+  <img align="left" alt="biancahandrade github stats" src="https://github-readme-stats-dun-theta.vercel.app/api?username=biancahandrade&show_icons=true&bg_color=5A8C6E&title_color=264030&text_color=264030&icon_color=264030&border_color=264030&hide_border=true" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancahandrade&layout=compact)](https://github.com/biancahandrade/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancahandrade&bg_color=5A8C6E&title_color=264030&text_color=264030&icon_color=264030&border_color=264030&layout=compact)](https://github.com/biancahandrade/github-readme-stats)
